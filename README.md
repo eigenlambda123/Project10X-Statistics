@@ -50,9 +50,9 @@ This is the **Statistics counterpart** to my [Project10X – The Backend Builder
 
 ---
 
-## 🧰 Tools & Libraries
+## Tools & Libraries
 
-### 🧮 Core Math & Data Libraries
+### Core Math & Data Libraries
 
 | Tool                   | Purpose                                                                                                                            |
 | ---------------------- | ---------------------------------------------------------------------------------------------------------------------------------- |
@@ -62,7 +62,7 @@ This is the **Statistics counterpart** to my [Project10X – The Backend Builder
 
 ---
 
-### 📊 Visualization
+### Visualization
 
 | Tool                            | Purpose                                                                                                                                   |
 | ------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------- |
@@ -72,7 +72,7 @@ This is the **Statistics counterpart** to my [Project10X – The Backend Builder
 
 ---
 
-### 📓 Development Environment
+### Development Environment
 
 | Tool                               | Purpose                                                                                                                              |
 | ---------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------ |
@@ -81,7 +81,7 @@ This is the **Statistics counterpart** to my [Project10X – The Backend Builder
 
 ---
 
-### 🧩 Interactivity (Stretch Tools)
+### Interactivity (Stretch Tools)
 
 | Tool                                | Purpose                                                                                                                            |
 | ----------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------- |
@@ -90,7 +90,7 @@ This is the **Statistics counterpart** to my [Project10X – The Backend Builder
 
 ---
 
-### 🧪 Testing & Experimentation
+### Testing & Experimentation
 
 | Tool                  | Purpose                                                                                                                                         |
 | --------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -98,7 +98,7 @@ This is the **Statistics counterpart** to my [Project10X – The Backend Builder
 
 ---
 
-### 📚 Documentation & Publishing (Optional)
+### Documentation & Publishing (Optional)
 
 | Tool                      | Purpose                                                                                              |
 | ------------------------- | ---------------------------------------------------------------------------------------------------- |
@@ -107,7 +107,7 @@ This is the **Statistics counterpart** to my [Project10X – The Backend Builder
 
 ---
 
-## 📦 Recommended Starter Stack
+## Recommended Starter Stack
 
 Start with these:
 
