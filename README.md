@@ -24,18 +24,18 @@ This is the **Statistics counterpart** to my [Project10X – The Backend Builder
 
 ## Projects Overview
 
-| #  | Project                             | Key Concepts Covered                                               |
-| -- | ----------------------------------- | ------------------------------------------------------------------ |
-| 1  | Descriptive Stats Explorer          | Mean, median, mode, range, variance, standard deviation            |
-| 2  | Visualizing Distributions           | Histograms, KDE, boxplots, skewness, kurtosis                      |
-| 3  | Probability Simulator               | Classical probability, empirical probability, law of large numbers |
-| 4  | Dice & Coin Experiments             | Sample space, expected value, binomial distribution                |
-| 5  | Central Limit Theorem Playground    | Sampling distributions, CLT, normal approximation                  |
-| 6  | Confidence Interval Builder         | Confidence intervals for mean and proportions                      |
-| 7  | Hypothesis Test Engine              | Null/alternative hypotheses, Type I/II errors, p-values            |
-| 8  | Correlation & Regression Visualizer | Pearson correlation, simple linear regression, residual plots      |
-| 9  | Chi-Square & ANOVA Tools            | Categorical data, chi-square test, one-way ANOVA                   |
-| 10 | Capstone: Mini Data Study           | Apply all concepts on a real dataset: EDA, inference, modeling     |
+| #  | Project                             | Key Concepts Covered                                                             |
+| -- | ----------------------------------- | -------------------------------------------------------------------------------- |
+| 1  | Descriptive Stats Analyzer          | Mean, median, mode, range, variance, standard deviation, IQR, Outliers Detection |
+| 2  | Visualizing Distributions           | Histograms, KDE, boxplots, skewness, kurtosis                                    |
+| 3  | Probability Simulator               | Classical probability, empirical probability, law of large numbers               |
+| 4  | Dice & Coin Experiments             | Sample space, expected value, binomial distribution                              |
+| 5  | Central Limit Theorem Playground    | Sampling distributions, CLT, normal approximation                                |
+| 6  | Confidence Interval Builder         | Confidence intervals for mean and proportions                                    |
+| 7  | Hypothesis Test Engine              | Null/alternative hypotheses, Type I/II errors, p-values                          |
+| 8  | Correlation & Regression Visualizer | Pearson correlation, simple linear regression, residual plots                    |
+| 9  | Chi-Square & ANOVA Tools            | Categorical data, chi-square test, one-way ANOVA                                 |
+| 10 | Capstone: Mini Data Study           | Apply all concepts on a real dataset: EDA, inference, modeling                   |
 
 ---
 
@@ -58,7 +58,7 @@ This is the **Statistics counterpart** to my [Project10X – The Backend Builder
 | ---------------------- | ---------------------------------------------------------------------------------------------------------------------------------- |
 | **NumPy**              | Backbone for numerical operations (arrays, random number generation, stats functions). Essential for all statistical computations. |
 | **Pandas**             | Crucial for loading, cleaning, and exploring tabular datasets (CSV, Excel, etc.). Used in nearly every project.                    |
-| **SciPy** *(optional)* | Provides additional statistics functions (e.g., t-tests, chi-square, normal distributions) that complement NumPy.                  |
+| **SciPy**              | Provides additional statistics functions (e.g., t-tests, chi-square, normal distributions) that complement NumPy.                  |
 
 ---
 
