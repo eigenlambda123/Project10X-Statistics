@@ -55,13 +55,3 @@ A Python class for performing descriptive statistical analysis on CSV datasets. 
 * Make sure the columns specified exist in the dataset.
 * Non-numeric columns will be skipped with warnings.
 * The inclusive IQR method uses interpolation to calculate quartiles and detect outliers.
-
----
-
-## License
-
-MIT License
-
----
-
-*Made by RM Villa*
