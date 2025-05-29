@@ -56,53 +56,6 @@ I designed this repo to be useful not only for myself but also for anyone who wa
 
 ## Tools & Libraries I Use
 
-### Core Math & Data Libraries
-
-| Tool       | Purpose                                                                                                                            |
-| ---------- | ---------------------------------------------------------------------------------------------------------------------------------- |
-| **NumPy**  | Backbone for numerical operations (arrays, random number generation, stats functions). Essential for all statistical computations. |
-| **Pandas** | Crucial for loading, cleaning, and exploring tabular datasets (CSV, Excel, etc.). Used in nearly every project.                    |
-| **SciPy**  | Provides additional statistics functions (e.g., t-tests, chi-square, normal distributions) that complement NumPy.                  |
-
-### Visualization
-
-| Tool                            | Purpose                                                                                                                                   |
-| ------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------- |
-| **Matplotlib**                  | Foundational plotting library for all kinds of statistical graphs: histograms, bar charts, scatterplots, etc.                             |
-| **Seaborn**                     | Built on top of Matplotlib. Makes it easy to create beautiful statistical plots (e.g., box plots, violin plots, heatmaps). Great for EDA. |
-| **Plotly / Bokeh** *(optional)* | Used for interactive charts, useful for exploring distributions or creating dashboards. Nice-to-have but not required.                    |
-
-### Development Environment
-
-| Tool                               | Purpose                                                                                                                              |
-| ---------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------ |
-| **Jupyter Notebooks / JupyterLab** | Ideal for this series — lets you combine code, visuals, and written insights in one place. Your default workflow.                    |
-| **Python Scripts (.py)**           | Useful for modularizing utility functions (e.g., confidence interval calculator, hypothesis test engine). Keeps your codebase clean. |
-
-### Interactivity (Stretch Tools)
-
-| Tool                                | Purpose                                                                                                                             |
-| ----------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------- |
-| **ipywidgets**                      | Add sliders, dropdowns, and input fields in Jupyter for interactive simulations (e.g., change sample size and observe CI behavior). |
-| **Streamlit / Gradio** *(optional)* | Frameworks for turning your notebook prototypes into simple web apps. Could be used in the Capstone.                                |
-
-### Testing & Experimentation
-
-| Tool                  | Purpose                                                                                                                                         |
-| --------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------- |
-| **pytest / unittest** | Optional, but great if you want to test custom functions (like sampling simulators or p-value calculators). Helps practice clean coding habits. |
-
-### Documentation & Publishing (Optional)
-
-| Tool                      | Purpose                                                                                              |
-| ------------------------- | ---------------------------------------------------------------------------------------------------- |
-| **Obsidian / Markdown**   | Take structured notes as you go (definitions, formulas, logic for testing assumptions).              |
-| **Jupyter Book / Quarto** | For publishing your notebooks as readable documentation, tutorials, or blog-style learning journals. |
-
----
-
-## Recommended Starter Stack
-
 I use and recommend starting with these:
 
 * Python 3.10+
