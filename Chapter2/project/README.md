@@ -1,4 +1,4 @@
-# **VisualDataExplorer**
+# **Data Visualization Dashboard**
 
 A Python-based CLI tool for exploring datasets visually. Designed for flexibility and ease of use, it allows users to load their own CSV files, choose a dataset to work with, and apply various univariate, bivariate, and heatmap visualizations — all through an interactive terminal interface.
 
