@@ -16,7 +16,7 @@ I designed this repo to be useful not only for myself but also for anyone who wa
 
 ---
 
-## My Goals (And Maybe Yours Too)
+## My Goals
 
 * Build strong statistical intuition through simulation and visualization
 * Learn practical statistics concepts by implementing them from scratch
@@ -43,17 +43,6 @@ I designed this repo to be useful not only for myself but also for anyone who wa
 
 ---
 
-## How I Use This Repo (And How You Can Too)
-
-1. Pick a project based on the topic you're currently studying in statistics.
-2. Read accompanying theory from your favorite stats book or course (OpenIntro, Khan Academy, etc.).
-3. Work through the project scripts or notebooks, following the README and guided tasks.
-4. Explore interactive features where available (like CLT sliders or p-value simulators).
-5. Try the stretch goals to deepen your understanding.
-6. Commit your notes and findings to build your own knowledge base.
-
----
-
 ## Tools & Libraries I Use
 
 I use and recommend starting with these:
@@ -64,13 +53,6 @@ I use and recommend starting with these:
 * Pandas
 * Matplotlib
 * Seaborn
-
-Optional additions:
-
-* `SciPy` for statistical functions
-* `ipywidgets` for interactivity
-* `pytest` for testing your logic
-* `Plotly` for rich, interactive visuals
 
 ---
 
