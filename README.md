@@ -8,11 +8,6 @@
 
 This repository is my personal project to **master Statistics by building real, practical projects** aligned with core statistical ideas like probability, distributions, sampling, hypothesis testing, and more.
 
-Instead of just reading or memorizing formulas, I’m simulating, visualizing, and applying statistical reasoning to concrete examples.
-
-This is the **Statistics counterpart** to my [Project10X – The Backend Builder Series](https://github.com/eigenlambda123/Project10X-The-Backend-Builder-Series.git), and it follows the same project-driven learning approach I used for my [Linear Algebra 10X Builder Series](https://github.com/eigenlambda123/Linear-Algebra-10X-Builder-Series).
-
-I designed this repo to be useful not only for myself but also for anyone who wants to learn statistics through hands-on projects and practical coding.
 
 ---
 
@@ -21,8 +16,7 @@ I designed this repo to be useful not only for myself but also for anyone who wa
 * Build strong statistical intuition through simulation and visualization
 * Learn practical statistics concepts by implementing them from scratch
 * Make abstract concepts tangible: sampling distributions, p-values, the Central Limit Theorem, and more
-* Lay a solid foundation for data science, machine learning, and scientific computing
-* Practice writing clean, reproducible code with a math-first mindset
+* Lay a solid foundation for data science and machine learning
 
 ---
 
@@ -68,4 +62,4 @@ This project is licensed under the MIT License. See [LICENSE](LICENSE) for detai
 
 ---
 
-*Made by RM Villa*
+*Made and Maintained by RM Villa*
