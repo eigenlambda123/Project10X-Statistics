@@ -1,4 +1,4 @@
-# Stats10X Builder Series
+# Statistics 10X Builder Series
 
 > Learn **Statistics** by building 10 hands-on, visual, and interactive projects inspired by key topics in foundational probability and statistics.
 
@@ -6,7 +6,7 @@
 
 ## About This Repo
 
-This repository is my personal project to **master Statistics by building real, practical projects** aligned with core statistical ideas like probability, distributions, sampling, hypothesis testing, and more.
+This repository is my personal project to **Learn Statistics by building real, practical projects** aligned with core statistical ideas like probability, distributions, sampling, hypothesis testing, and more.
 
 
 ---
@@ -62,4 +62,4 @@ This project is licensed under the MIT License. See [LICENSE](LICENSE) for detai
 
 ---
 
-*Made and Maintained by RM Villa*
+_Created and Maintained by RM Villa_
