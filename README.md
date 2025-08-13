@@ -37,7 +37,7 @@ This repository is my personal project to **Learn Statistics by building real, p
 
 ---
 
-## Tools & Libraries I Use
+### Tools & Libraries I Use
 
 I use and recommend starting with these:
 
@@ -50,13 +50,9 @@ I use and recommend starting with these:
 
 ---
 
-## Contributions & Feedback
+### License & Contributions
 
-This is my personal learning journey, but I welcome feedback, suggestions, and pull requests! If you create your own variation or improve a project, feel free to contribute.
-
----
-
-## License
+This is my **personal learning journey**, but I welcome feedback, suggestions, and pull requests! If you create your own variation or improve a project, feel free to contribute.
 
 This project is licensed under the MIT License. See [LICENSE](LICENSE) for details.
 
